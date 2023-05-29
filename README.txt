@@ -1,12 +1,12 @@
-=== Microsensor Features ===
+=== WordPress Plugin Template ===
 Contributors: (this should be a list of wordpress.org userid's)
-Donate link: http://example.com/
-Tags: comments, spam
-Requires at least: 6.0
-Tested up to: 6.2
-Stable tag: 0.1.0
+Donate link: https://www.buymeacoffee.com/musikuss
+Tags: wordpress, plugin, template
+Requires at least: 5.6
+Tested up to: 6.3
+Stable tag: 1.0.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
